@@ -1,2 +1,2 @@
 # SQL_exercise
-Database is created and queries on the database are made
+Tables are created and queries are made
